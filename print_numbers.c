@@ -4,7 +4,7 @@
  * print_i - prints an integer
  * @i: integer to print
  *
- * Return: number of chars and digits printed
+ * Return: number of characters and digits printed
  */
 int print_i(va_list i)
 {
