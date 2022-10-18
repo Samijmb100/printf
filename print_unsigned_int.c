@@ -84,6 +84,7 @@ int print_b(va_list b)
 		m /= 2;
 		a[i] = (n / m) % 2;
 	}
+	
 	for (i = 0, sum = 0, count = 0; i < 32; i++)
 	{
 		sum += a[i];
