@@ -1,3 +1,4 @@
-Team project on alx pair programming
+Authors: Samuel Samuel && Elijah Akande
+Project to write the printf Function
 
-bbj.  
+
