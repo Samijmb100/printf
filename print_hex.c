@@ -84,7 +84,7 @@ static unsigned long _pow(unsigned int base, unsigned int exponent)
  * print_p - prints an address
  * @p: address to print
  *
- * Return: number of characters to 
+ * Return: number of characters to print
  */
 int print_p(va_list p)
 {
