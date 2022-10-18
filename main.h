@@ -29,4 +29,4 @@ int print_S(va_list S);
 int print_r(va_list r);
 int print_R(va_list R);
 
-#endif  /* _MAIN_H */
+#endif  
